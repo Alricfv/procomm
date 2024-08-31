@@ -1,0 +1,1 @@
+rate_of_speech= 3 # syllables/sec original duration

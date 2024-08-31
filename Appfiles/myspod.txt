@@ -1,0 +1,1 @@
+original_duration= 20.0 # sec total speaking duration with pauses

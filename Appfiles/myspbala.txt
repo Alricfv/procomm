@@ -1,0 +1,1 @@
+balance= 0.6 # ratio (speaking duration)/(original duration)
