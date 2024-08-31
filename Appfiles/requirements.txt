@@ -1,3 +1,5 @@
+ffmpeg
 customtkinter
+pygame
 whisper
 my-voice-analysis
