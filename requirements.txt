@@ -5,3 +5,4 @@ whisper
 my-voice-analysis
 pillow
 sounddevice
+pyaudio
