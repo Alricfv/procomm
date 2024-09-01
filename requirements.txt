@@ -3,4 +3,4 @@ customtkinter
 pygame
 whisper
 my-voice-analysis
-
+pillow
